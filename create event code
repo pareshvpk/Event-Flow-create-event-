@@ -96,7 +96,9 @@
 			}
 		</style>
   </head>
-  <body>
+  <body style="background-image: url(create1.jpeg;
+background-size: cover;">
+
     <div class="flex flex-col items-center justify-center min-h-screen bg-background">
     <div class="bg-card rounded-lg shadow-lg p-6 w-full max-w-md">
         <div class="flex justify-between items-center mb-4">
@@ -140,3 +142,13 @@
 
   </body>
 </html>
+
+
+
+
+
+
+
+
+
+
